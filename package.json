@@ -1,0 +1,23 @@
+{
+  "name": "cy-fluxos",
+  "version": "1.0.0",
+  "description": "Cypress Fluxos",
+  "homepage": "https://github.com/NicolasSilva-droid/Fluxos#readme",
+  "bugs": {
+    "url": "https://github.com/NicolasSilva-droid/Fluxos/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasSilva-droid/Fluxos.git"
+  },
+  "license": "ISC",
+  "author": "Aluno Ebac",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "dependencies": {
+    "cypress": "^15.7.1"
+  }
+}
